@@ -8,7 +8,7 @@ I'm a Computer Science Engineering student at Finolex Academy of Management & Te
 
 - Python
 - Java
-- HTML/CSS
+- React
 - Git
 
 ## 📫 Connect with Me
@@ -20,7 +20,7 @@ I'm a Computer Science Engineering student at Finolex Academy of Management & Te
 
 ## 📚 My GitHub Stats
 
-[![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnujaHPatil&show_icons=true&theme=radical)](https://github.com/AnujaHPatil)
+[![Anuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnujaHPatil&show_icons=true&theme=radical)](https://github.com/AnujaHPatil)
 
 ## 🤝 Contributing
 
