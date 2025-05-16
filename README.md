@@ -7,7 +7,6 @@ I'm a Computer Science Engineering student at Finolex Academy of Management & Te
 ## 🔧 Technologies & Tools
 
 - Python
-- Java
 - React
 - Git
 
